@@ -1,0 +1,50 @@
+.main-rate {
+  &__wrapper {
+    margin: 2rem 0;
+    padding: .5rem;
+  }
+  &__content {
+    display: flex;
+  }
+  &__heading {
+    margin-bottom: 1rem;
+    color: #038b7f;
+    font-size: 18px;
+    font-weight: 400;
+  }
+}
+.rate {
+  &__good {
+
+  }
+  &__bad {
+
+  }
+  &__icon {
+    &-remove {
+
+    }
+    &-ok {
+
+    }
+    &-exclamation {
+
+    }
+  }
+}
+.progress {
+  &__wrapper {
+    position: relative;
+    margin: 0 1rem;
+    width: 458px;
+    box-shadow: inset 0 3px 7px rgba(0, 0, 0, 0.08);
+    background-color: #f9f9f9;
+  }
+  &__success {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    background: rgb(243, 240, 54);
+  }
+}

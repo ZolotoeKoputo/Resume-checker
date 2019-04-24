@@ -1,0 +1,970 @@
+{
+  "block0": {
+    "percent": "Match Rate",
+    "name": "match rate",
+    "suggestion": "Match Rate"
+  },
+  "block1": [
+    {
+      "good_icon_value": "ok",
+      "bad_icon_value": "remove",
+      "name": "ATS FINDINGS",
+      "bad_value": "1 / 5",
+      "good_value": "4 / 5"
+    },
+    {
+      "good_icon_value": "ok",
+      "bad_icon_value": "exclamation",
+      "name": "Recruiter FINDINGS",
+      "bad_value": "4 / 8",
+      "good_value": "4 / 8"
+    },
+    {
+      "good_icon_value": "ok",
+      "bad_icon_value": "remove",
+      "name": "Skills Match",
+      "bad_value": "6 / 34",
+      "good_value": "28 / 34"
+    },
+    {
+      "good_icon_value": "ok",
+      "bad_icon_value": "exclamation",
+      "name": "Format Checks",
+      "bad_value": "6 / 34",
+      "good_value": "28 / 34"
+    }
+  ],
+  "block2": [
+    {
+      "title": "ATS Findings"
+    },
+    {
+      "text": "You are missing 3 important high-value skills on your resume. For example, customer experience appears on the job description 7 times and is not on your resume. You are additionally missing 25 hard and soft skills.\nView your missing skills below.",
+      "check_icon": "remove",
+      "name": "skills and keywords"
+    },
+    {
+      "text": "The job title 'Manager', from the job description is also found in your resume. We recommend this to be the case to ensure you're found when recruiters search by job title.\n\n\nIncorrect job title in the job description?\nMore than one job title was found in job description.\n\nPlease choose or add the correct job title for this position \ne.g. \"Operations Manager\", \"Senior Software Engineer\"\nRecruiters will likely search for you using the most concise and straight forward job title.\n\nManager\n\nSenior Manager\n\nBusiness Development\n\n\nProduct Manager\nPredicted\n\n\n\nProduct Manager Growth\nPredicted\n\n\n\nProduct Architect\nPredicted\n\n\n\n\n\n\n\n\n\nAdd &  Rescan",
+      "check_icon": "ok",
+      "name": "Job title match"
+    },
+    {
+      "text": "This job requires or prefers a Master's degree. A Master's degree is not found in your resume.",
+      "check_icon": "remove",
+      "name": "Education match"
+    },
+    {
+      "text": "Adding this job's company name and web address can help us provide you ATS-specific tips.\n\n\nAdd Company Name\n\nAdd Company name\n\n \n|\n\n\nAdd web address\n\nAdd web address for this job\n\n \n\n\n Fetching ATS Specific Tips \n\n\nATS Matched:  - \n\nView ATS Tips ()\n\n\n\n\n\n\n\nNo ATS matched:\nCheck back in the future, we update regularly.",
+      "check_icon": "remove",
+      "name": "Ats tip"
+    },
+    {
+      "text": "Name your experience section “Work History\" or “Professional Experience” for ATS to recognize work sections.",
+      "check_icon": "remove",
+      "name": "Section headings"
+    },
+    {
+      "text": "ATS and recruiters prefer specific date formatting for your work experience.\n\nPlease use the following formats: “MM / YY or MM / YYYY or Month YYYY” (e.g. 03/19, 03/2019, Mar 2019 or March 2019).\n\nWe suggest updating these dates:\n\nView Incorrect Dates (1)\n\n 2010 ",
+      "check_icon": "remove",
+      "name": "Date formatting"
+    }
+  ],
+  "block3": [
+    {
+      "title": "Recruiter Findings"
+    },
+    {
+      "text": "There are 1055 words in your resume. If you are not applying to executive-level, government, or Australia-based jobs, consider reducing your resume length to under 1000 words to increase focus and for ease of reading by recruiters.",
+      "check_icon": "remove",
+      "name": "Word count"
+    },
+    {
+      "text": "There are five or more mentions of measurable results in your resume. Keep it up - employers like to see the impact and results that you had on the job.\n\nView Measurable Results (7)\n\n\".. secure collaboration solution to millions of ..\"\n\".. successfully launched filemaker go 10 for iphone ..\"\n\".. ipad and becoming the 1 paid business ..\"\n\".. app and 1 business grossing ..\"\n\".. first week it received 4 out of ..\"\n\".. cross functional team through two cycles of ..\"\n\".. delivered to over one thousand attendees at ..\"",
+      "check_icon": "ok",
+      "name": "Measurable results"
+    },
+    {
+      "text": "You are applying to a(n) senior level role. Given your 20+ years of experience, this role is a great fit.",
+      "check_icon": "ok",
+      "name": "Job level match"
+    },
+    {
+      "text": "The tone of your resume is generally positive and no common cliches and buzzwords were found. Good job!",
+      "check_icon": "ok",
+      "name": "Words to avoid"
+    }
+  ],
+  "block4": [
+    {
+      "title": "Premium ATS & Recruiter Findings"
+    },
+    {
+      "text": "sample finding\nYour document page size is non-standard - recruiters often print resumes for review, and non-standard page sizes could cause your resume to be cut off.",
+      "check_icon": "remove",
+      "name": "Page size"
+    },
+    {
+      "text": "sample finding\nYour resume uses the right amount of bold styling to increase readability for a recruiter.",
+      "check_icon": "ok",
+      "name": "Bold font"
+    }
+  ],
+  "block5_table": {
+    "table_body": [
+      {
+        "row0": [
+          "Product",
+          " ",
+          "21",
+          "12 "
+        ]
+      },
+      {
+        "row1": [
+          "Mobile",
+          "",
+          "7",
+          "11"
+        ]
+      },
+      {
+        "row2": [
+          "Customer experience",
+          "",
+          "remove",
+          "7"
+        ]
+      },
+      {
+        "row3": [
+          "Product management",
+          " ",
+          "2",
+          "4"
+        ]
+      },
+      {
+        "row4": [
+          "Technical",
+          "",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "row5": [
+          "Android",
+          "",
+          "4",
+          "3"
+        ]
+      },
+      {
+        "row6": [
+          "Iphone",
+          "",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "row7": [
+          "Windows",
+          "",
+          "7",
+          "2"
+        ]
+      },
+      {
+        "row8": [
+          "Tablets",
+          "",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "row9": [
+          "Content",
+          "",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "row10": [
+          "Design",
+          " ",
+          "1",
+          "2"
+        ]
+      },
+      {
+        "row11": [
+          "Business development",
+          "",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "row12": [
+          "Strategy",
+          "",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "row13": [
+          "Smartphones",
+          " ",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "row14": [
+          "Retail",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row15": [
+          "Usability",
+          "",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "row16": [
+          "Writing",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row17": [
+          "Metrics",
+          "",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "row18": [
+          "Agile software",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row19": [
+          "Business strategy",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row20": [
+          "Mobile commerce",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row21": [
+          "Software development",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row22": [
+          "Product roadmap",
+          "",
+          "2",
+          "1"
+        ]
+      },
+      {
+        "row23": [
+          "Operational support",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row24": [
+          " operational analysis",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row25": [
+          "Mobile shopping",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row26": [
+          "Mobile platforms",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row27": [
+          "Market segment",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row28": [
+          "Business value",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row29": [
+          "Management experience",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row30": [
+          "Kindle fire",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row31": [
+          "Feature roadmap",
+          "",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "row32": [
+          "External partners",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row33": [
+          "Dynamic environment",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row34": [
+          "Marketing",
+          " ",
+          "4",
+          "1"
+        ]
+      },
+      {
+        "row35": [
+          "Digital content",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row36": [
+          "Focus",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row37": [
+          "Kindle",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row38": [
+          "Ipad",
+          "",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "row39": [
+          "Agile",
+          "",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "row40": [
+          "Analytical",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row41": [
+          "Architectural",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row42": [
+          "Blackberry",
+          "",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "row43": [
+          "Engagement",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row44": [
+          "Fashion",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row45": [
+          "Forecasts",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row46": [
+          "Agile software development",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row47": [
+          "Multi-platform",
+          "",
+          "remove",
+          "- "
+        ]
+      },
+      {
+        "row48": [
+          "User-friendly",
+          "",
+          "remove",
+          "- "
+        ]
+      }
+    ],
+    "table_head": [
+      "Skill",
+      "Variations",
+      "Resume",
+      "Job description"
+    ]
+  },
+  "block5_title": {
+    "text": "Hard skills are often skills learned through training and include proficiency with specific software, tools, or other specialized skills. Below are the hard skills and their frequencies in your resume and job description. Skills denoted as  are found in the job description but are missing from your resume. Focus your efforts on adding skills that appear most often in the job description.",
+    "title": "Hard Skills High Importance"
+  },
+  "block6_table": {
+    "table_body": [
+      {
+        "row0": [
+          "Vision",
+          "",
+          "remove",
+          "4"
+        ]
+      },
+      {
+        "row1": [
+          "Innovative",
+          "",
+          "remove",
+          "4"
+        ]
+      },
+      {
+        "row2": [
+          "Innovation",
+          "",
+          "remove",
+          "2"
+        ]
+      },
+      {
+        "row3": [
+          "Passion\n ",
+          "",
+          "remove",
+          "2"
+        ]
+      },
+      {
+        "row4": [
+          "Accountability",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row5": [
+          "Strategic thinking",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row6": [
+          "Dedicated",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row7": [
+          "Influence",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row8": [
+          "Inspire",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row9": [
+          "Judgment",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row10": [
+          "Leadership",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row11": [
+          "Proactively",
+          "",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "row12": [
+          "Quantitative",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row13": [
+          "Big picture",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row14": [
+          "Communication skills",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row15": [
+          "Decision making",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row16": [
+          "High quality",
+          "",
+          "1",
+          "1"
+        ]
+      },
+      {
+        "row17": [
+          "Interpersonal skills",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row18": [
+          "Leadership ability",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row19": [
+          "Resolving issues",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row20": [
+          "Track record",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row21": [
+          "Verbal communication",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row22": [
+          "Ability to juggle",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row23": [
+          "Ability to lead",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row24": [
+          "Attention to detail",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row25": [
+          "Excellent interpersonal skills",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row26": [
+          "Verbal communication skills",
+          "",
+          "remove",
+          "1"
+        ]
+      },
+      {
+        "row27": [
+          "Competitive",
+          " ",
+          "2",
+          "1"
+        ]
+      }
+    ],
+    "table_head": [
+      "Skill",
+      "Variations",
+      "Resume",
+      "Job description"
+    ]
+  },
+  "block6_title": {
+    "text": "Soft skills are skills such as \"detail oriented\" or \"team player\" and are less likely to be searched for by recruiters, so they are weighted less in the match rate. We recommend focusing on the \"Hard Skills\" section above. Skills denoted as  are found in the job description but are missing from your resume.",
+    "title": "Soft Skills Medium Importance"
+  },
+  "block7_table": {
+    "table_body": [
+      {
+        "row0": [
+          "Team",
+          "",
+          "4",
+          "14"
+        ]
+      },
+      {
+        "row1": [
+          "Product",
+          "",
+          "21",
+          "12"
+        ]
+      },
+      {
+        "row2": [
+          "Business",
+          "",
+          "9",
+          "8"
+        ]
+      },
+      {
+        "row3": [
+          "Customer",
+          "",
+          "8",
+          "8"
+        ]
+      },
+      {
+        "row4": [
+          "Phone",
+          "",
+          "3",
+          "6"
+        ]
+      },
+      {
+        "row5": [
+          "Goals",
+          "",
+          "remove",
+          "5"
+        ]
+      },
+      {
+        "row6": [
+          "Management",
+          "",
+          "6",
+          "5"
+        ]
+      },
+      {
+        "row7": [
+          "Strategic",
+          "",
+          "remove",
+          "4"
+        ]
+      },
+      {
+        "row8": [
+          "Proven",
+          "",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "row9": [
+          "Requirements",
+          "",
+          "4",
+          "4"
+        ]
+      },
+      {
+        "row10": [
+          "Amazon",
+          "",
+          "remove",
+          "4"
+        ]
+      },
+      {
+        "row11": [
+          "Platforms",
+          "",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "row12": [
+          "Leading",
+          "",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "row13": [
+          "Opportunities",
+          "",
+          "remove",
+          "4"
+        ]
+      },
+      {
+        "row14": [
+          "Features",
+          "",
+          "3",
+          "4"
+        ]
+      },
+      {
+        "row15": [
+          "Development",
+          "",
+          "8",
+          "4"
+        ]
+      },
+      {
+        "row16": [
+          "Platform",
+          "",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "row17": [
+          "Tradeoffs",
+          "",
+          "remove",
+          "3"
+        ]
+      },
+      {
+        "row18": [
+          "Comfort",
+          "",
+          "remove",
+          "3"
+        ]
+      },
+      {
+        "row19": [
+          "Worldwide",
+          "",
+          "remove",
+          "3"
+        ]
+      },
+      {
+        "row20": [
+          "Building",
+          "",
+          "remove",
+          "3"
+        ]
+      },
+      {
+        "row21": [
+          "Organization",
+          "",
+          "1",
+          "3"
+        ]
+      },
+      {
+        "row22": [
+          "Delivery",
+          "",
+          "2",
+          "3"
+        ]
+      },
+      {
+        "row23": [
+          "Teams",
+          "",
+          "3",
+          "3"
+        ]
+      },
+      {
+        "row24": [
+          "Success",
+          "",
+          "1",
+          "3"
+        ]
+      }
+    ],
+    "table_head": [
+      "Skill",
+      "Variations",
+      "Resume",
+      "Job description"
+    ]
+  },
+  "block7_title": {
+    "text": "Other Keywords are words that have appeared more than three times and aren't in the hard and soft skills above. These are buzzwords, industry lingo or company specific jargon and are weighed less in the match rate. Skills denoted as  are found in the job description but are missing from your resume.",
+    "title": "Other Keywords Low Importance"
+  }
+}
